@@ -1,2 +1,2 @@
 # auto_tests_course
-test commit
+Курс по автотестированию stepik.org на Python+Selenium
